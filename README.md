@@ -118,6 +118,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | [command] > [file] |  Push output to file, keep in mind it will get overwritten |
 | [command] >> [file] | Append output to existing file |
 | [command] < [file] |  Tell command to read content from a file |
+| cp -R [dir1] [dir2] | Copy directory1 to directory2 |
 
 ## SEARCH
 
